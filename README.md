@@ -1,5 +1,3 @@
-# Note to self: yeah this is the old readme of your github profile dont use
-
 
 # Hi, im `can`.
 
